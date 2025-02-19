@@ -25,25 +25,23 @@ The Command Line Murders
 	`OOOO'       `@    aa@@       aaa"""          @a        a@     a@@@',OOOO'
 
 
-There's been a murder in Terminal City, and TCPD needs your help.
+В Городе Терминал произошло убийство и полиции TCPD нужна твоя помощь.
 
-To figure out whodunit, you need access to a command line.
+Чтобы выяснить, кто это сделал используй командную строку Linux.
 
-Once you're ready, clone this repo, or [download it as a zip file](https://github.com/veltman/clmystery/archive/master.zip).
+Как будешь готов, склонируй этот репозиторий к себе на компьютер или [скачай zip-файл с игрой](https://github.com/veltman/clmystery/archive/master.zip).
 
-Open a Terminal, go to the location of the files, and start by reading the file 'instructions'.
+Открой Терминал, зайди в папку с игрой и начни с прочтения файла 'instructions'.
 
-One way you can do this is with the command:
+Чтобы сделать это, используй команду `cat`:
 
 	cat instructions
 
-(`cat` is a command that will print the contents of the file called `instructions` for you to read.)
+Если хочешь разобраться, в чём именно состоит задача, открой файл cheatsheet.md или cheatsheet.pdf (можешь набрать из командной строки `nano cheatsheet.md`).
 
-To get started on how to use the command line, open cheatsheet.md or cheatsheet.pdf (from the command line, you can type 'nano cheatsheet.md').
+НЕ используй текстовый редактор(nano) для просмотра содержимого файлов, кроме этих: instructions, the cheatsheet, hints
 
-Don't use a text editor to view any files except these instructions, the cheatsheet, and hints.
-
-### Credits
+### Разработчики игры
 
 By Noah Veltman  
 Projects: [noahveltman.com](http://noahveltman.com)  
